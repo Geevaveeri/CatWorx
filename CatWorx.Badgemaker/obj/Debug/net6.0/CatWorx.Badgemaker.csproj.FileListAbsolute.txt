@@ -1,0 +1,15 @@
+D:\Web Dev Projects\C#\CatWorx\CatWorx.Badgemaker\bin\Debug\net6.0\CatWorx.Badgemaker.exe
+D:\Web Dev Projects\C#\CatWorx\CatWorx.Badgemaker\bin\Debug\net6.0\CatWorx.Badgemaker.deps.json
+D:\Web Dev Projects\C#\CatWorx\CatWorx.Badgemaker\bin\Debug\net6.0\CatWorx.Badgemaker.runtimeconfig.json
+D:\Web Dev Projects\C#\CatWorx\CatWorx.Badgemaker\bin\Debug\net6.0\CatWorx.Badgemaker.dll
+D:\Web Dev Projects\C#\CatWorx\CatWorx.Badgemaker\bin\Debug\net6.0\ref\CatWorx.Badgemaker.dll
+D:\Web Dev Projects\C#\CatWorx\CatWorx.Badgemaker\bin\Debug\net6.0\CatWorx.Badgemaker.pdb
+D:\Web Dev Projects\C#\CatWorx\CatWorx.Badgemaker\obj\Debug\net6.0\CatWorx.Badgemaker.csproj.AssemblyReference.cache
+D:\Web Dev Projects\C#\CatWorx\CatWorx.Badgemaker\obj\Debug\net6.0\CatWorx.Badgemaker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Dev Projects\C#\CatWorx\CatWorx.Badgemaker\obj\Debug\net6.0\CatWorx.Badgemaker.AssemblyInfoInputs.cache
+D:\Web Dev Projects\C#\CatWorx\CatWorx.Badgemaker\obj\Debug\net6.0\CatWorx.Badgemaker.AssemblyInfo.cs
+D:\Web Dev Projects\C#\CatWorx\CatWorx.Badgemaker\obj\Debug\net6.0\CatWorx.Badgemaker.csproj.CoreCompileInputs.cache
+D:\Web Dev Projects\C#\CatWorx\CatWorx.Badgemaker\obj\Debug\net6.0\CatWorx.Badgemaker.dll
+D:\Web Dev Projects\C#\CatWorx\CatWorx.Badgemaker\obj\Debug\net6.0\ref\CatWorx.Badgemaker.dll
+D:\Web Dev Projects\C#\CatWorx\CatWorx.Badgemaker\obj\Debug\net6.0\CatWorx.Badgemaker.pdb
+D:\Web Dev Projects\C#\CatWorx\CatWorx.Badgemaker\obj\Debug\net6.0\CatWorx.Badgemaker.genruntimeconfig.cache
